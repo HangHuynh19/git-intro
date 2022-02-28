@@ -4,5 +4,7 @@
 `git remote add origin https://github.com/HangHuynh19/git-intro.git`
 `git status`
 `git add .`
-`git commit -m "add file"
+`git commit -m "add file"`
 `git push origin master`
+`touch notes.md`
+`history`
